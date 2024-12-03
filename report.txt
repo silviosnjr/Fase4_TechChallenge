@@ -1,0 +1,13 @@
+Quantidade de frames analisados: 334
+Quantidade de anomalias detectadas: 0
+Frequência de emoções detectadas:
+  happy: 152
+  fear: 99
+  sad: 29
+  angry: 26
+  neutral: 59
+  surprise: 3
+Frequência de movimentos detectados:
+  Escrevendo: 275
+  Cumprimento: 26
+  Em pé: 48
