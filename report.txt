@@ -8,10 +8,10 @@ Frequencia de emocoes detectadas:
   neutral: 834
   surprise: 116
   disgust: 1
-Frequência de movimentos detectados:
+FrequÃªncia de movimentos detectados:
   Cumprimento: 896
   Escrevendo: 2385
-  Em pé: 922
+  Em pÃ©: 922
   Sentado: 122
-  Mãos no rosto: 89
-  Acenando com a mão: 215
+  MÃ£os no rosto: 89
+  Acenando com a mÃ£o: 215
