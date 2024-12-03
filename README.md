@@ -12,4 +12,4 @@ Arquivo principal: [tech_challenge_fase4.py](https://github.com/silviosnjr/Fase4
 * Executar no terminar: python .\tech_challenge_fase4.py
 * Após execução irá gerar um arquivo de vídeo "output_video.mp4" e o "report.txt"
 
-**Segue link contendo vídeo explicando o trabalho: [XX](XXX)**
+**Segue link contendo vídeo explicando o trabalho: [https://youtu.be/XtrzhTfYKEk](https://youtu.be/XtrzhTfYKEk)**
